@@ -19,7 +19,7 @@ body {
 
 .choice {
 	margin: 30px;
-	color: black;
+	color: #000081;
 	background-color: transparent;
 	border-color: #8e79a7;
 }
@@ -31,13 +31,14 @@ body {
 
 h2 {
 	font-family: 'Russo One', sans-serif;
-	color: #006ab5;
+	font-size: 50px;
+	color: #000081;
 }
 
 h1 {
 	font-family: 'Russo One', sans-serif;
-	font-size: 70px;
-	color: #222222;
+	font-size: 40px;
+	color: #000081;
 }
 
 #timeoutElement {
@@ -52,25 +53,25 @@ h1 {
 
 #answers {
 	font-family: 'Russo One', sans-serif;
-	color: #222222;
+	color: #000081;
 }
 
 #correctAnswers {
 	font-family: 'Russo One', sans-serif;
 	font-size: 40px;
-	color: #006ab5;
+	color: #000081;
 }
 
 #incorrectAnswers {
 	font-family: 'Russo One', sans-serif;
-	font-size: 35px;
-	color: #222222;
+	font-size: 40px;
+	color: #000081;
 }
 
 #unansweredQuestions {
 	font-family: 'Russo One', sans-serif;
-	font-size: 35px;
-	color: #006ab5;
+	font-size: 40px;
+	color: #000081;
 }
 
 .start-again {
