@@ -1,0 +1,86 @@
+html, body {
+	height: 100%;
+	margin: 50;
+}
+
+body {
+	background: url("../images/635958442835256599461256433_Pixar Logo.gif");
+}
+
+.disneypixarlogo {
+	margin-top: 20px;
+}
+
+.btn-color {
+	background-color: #222222;
+	font-family: 'Russo One', sans-serif;
+	border-color: #8e79a7;
+}
+
+.choice {
+	margin: 30px;
+	color: black;
+	background-color: transparent;
+	border-color: #8e79a7;
+}
+
+.choice:hover {
+	background-color: #ffcc00;
+	border-color: #8e79a7;
+}
+
+h2 {
+	font-family: 'Russo One', sans-serif;
+	color: #006ab5;
+}
+
+h1 {
+	font-family: 'Russo One', sans-serif;
+	font-size: 70px;
+	color: #222222;
+}
+
+#timeoutElement {
+	font-family: 'Russo One', sans-serif;
+	font-size: 35px;
+	color: #006ab5;
+}
+
+.images {
+	width: 500px;
+}
+
+#answers {
+	font-family: 'Russo One', sans-serif;
+	color: #222222;
+}
+
+#correctAnswers {
+	font-family: 'Russo One', sans-serif;
+	font-size: 40px;
+	color: #006ab5;
+}
+
+#incorrectAnswers {
+	font-family: 'Russo One', sans-serif;
+	font-size: 35px;
+	color: #222222;
+}
+
+#unansweredQuestions {
+	font-family: 'Russo One', sans-serif;
+	font-size: 35px;
+	color: #006ab5;
+}
+
+.start-again {
+	margin: 20px;
+	color: black;
+	background-color: transparent;
+	border-color: #8e79a7;
+	font-family: 'Russo One', sans-serif;
+
+.start-again:hover {
+	background-color: #e51937;
+	border-color: #8e79a7;
+	font-family: 'Russo One', sans-serif;
