@@ -66,7 +66,7 @@ var questions = [{
 	question: "There is a mind-blowing theory that all Pixar films exist in the same 'what'?",
 	choices: ["Universe", "City", "State", "Country"],
 	correctAnswer: 0,
-	image: "assets/tumblr_ncj1dc1Lsm1tm0eroo10_250.gif",
+	image: "assets/images/tumblr_ncj1dc1Lsm1tm0eroo10_250.gif",
 	answer: "Universe"
 }, {
 	question: "Andy from Toy Story has a postcard from 'whom' hanging on his pin board?",
